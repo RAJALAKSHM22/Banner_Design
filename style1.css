@@ -1,0 +1,101 @@
+
+.Title{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.fst{
+    margin: 5px 15px;
+    padding: 5px;
+    display: flex;
+}
+#fst1{
+    background-color: rgb(250, 188, 73);
+    padding: 20px;
+    width: 530px;
+}
+#fst2{
+    background-color: rgb(68, 195, 245);
+    padding: 20px;
+    width: 530px;
+}
+.snd{
+    background-color: rgb(252, 100, 125);
+    margin: 5px 20px;
+    padding: 5px;
+    
+}
+#snd1{
+    display: flex;
+}
+#snd1 div{
+    padding: 45px 10px;
+}
+.thrd{
+    background-color: rgb(68, 195, 245);
+    margin: 5px 20px;
+    padding: 5px;
+}
+#rd{
+    display: flex;
+}
+#thrd1{
+    padding: 5px;
+    width: 500px;
+    text-align: left;
+}
+#thrd2{
+    padding: 5px;
+    width: 500px;
+    text-align: left;
+}
+.frth{
+    margin: 5px 15px;
+    padding: 5px;
+    display: flex;
+}
+#frth1{
+    background-color: rgb(252, 100, 125);
+    padding: 5px;
+    width: 500px;
+}
+#frth2{
+    background-color: rgb(250, 188, 73);
+    padding: 5px;
+    width: 500px;
+}
+.fifth{
+    background-color: rgb(68, 195, 245);
+    margin: 5px 20px;
+    padding:25px;
+    text-align: left;
+}
+.sixth{
+    background-color: rgb(250, 188, 73);
+    margin: 5px 20px;
+    padding-top:5px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    text-align: left;
+}
+.seventh{
+    margin-top: 5px;
+    margin-bottom:20px;
+    margin-left: 15px;
+    margin-right: 20px;
+    padding: 5px;
+    display: flex;
+}
+#seventh1{
+    background-color: rgb(68, 195, 245);
+    padding: 5px;
+    width: 500px;
+}
+#seventh2{
+    background-color: rgb(252, 100, 125);
+    padding: 5px;
+    width: 500px;
+}
+
+
+
